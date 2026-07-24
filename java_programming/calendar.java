@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Calendar
+public class calendar
 {
     public static void main(String[] args) {
  	    int d,m,y,sum =0;
